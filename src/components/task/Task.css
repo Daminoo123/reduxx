@@ -1,0 +1,12 @@
+.done{
+text-decoration: line-through;
+}
+.tasks{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.textt{
+    font-size: 15px;
+}
